@@ -2,8 +2,6 @@ streamlit
 numpy
 pandas
 scipy
-dataclasses
 PyYAML
 plotly
 requests
-re
