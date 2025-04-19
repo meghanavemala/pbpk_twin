@@ -3,8 +3,7 @@ numpy
 pandas
 scipy
 dataclasses
-yaml
+PyYAML
 plotly
 requests
-json
 re
